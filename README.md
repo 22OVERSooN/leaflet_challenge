@@ -2,6 +2,9 @@
 
 ![1-Logo](Images/1-Logo.png)
 
+## Final Look
+<img width="1317" alt="final_look" src="https://user-images.githubusercontent.com/75764401/132097255-acfbd4ba-8655-4576-9ecf-981db9168c13.png">
+
 
 ### Level 1: Basic Visualization
 
